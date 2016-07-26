@@ -4,12 +4,12 @@ Because ten years ago there was no comparable Forth system. A development system
 I present the systems here packed as multiplatform Tcl applications. The apps are Tcl Starkits that include the full source as text scripts.
 
 ### HolonU
-A universal source code handler and refactoring browser in a graphical user interface.
+Universal source code handler and refactoring browser.
 
 http://www.holonforth.com/holonu.html
 
 ### HolonT
-A Forth-to-Tcl cross-development system.
+Forth-to-Tcl cross-development system.
 
 http://www.holonforth.com/holont.html
 
