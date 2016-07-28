@@ -1,4 +1,4 @@
-The Holonforth GUI systems are written in Tcl/Tk. Unfortunately there was no comparable Forth system available ten years ago. 
+The Holonforth GUI systems are written in Tcl/Tk. A great companion to Forth. 
 
 ### HolonU
 Universal source code handler and refactoring browser.
