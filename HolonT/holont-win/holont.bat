@@ -1,1 +1,0 @@
-start tclkit holont.kit  holont.hdb
